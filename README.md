@@ -13,6 +13,6 @@ Skills : Node.js · TypeScript · ES6+ · JWT Authentication · SQL · Docker ·
 Convergence - Human And Technology
 Convergence is a software company that designs and markets private and paid desktop PC software applications and IT solutions
 
-- https://github.com/Convergence-Human-And-Technology
+- Convergence : https://github.com/Convergence-Human-And-Technology
 
 - LinkedIn : https://www.linkedin.com/in/roland-langlois/
