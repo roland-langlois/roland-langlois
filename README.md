@@ -16,3 +16,13 @@ Convergence is a software company that designs and markets private and paid desk
 - Convergence : https://github.com/Convergence-Human-And-Technology
 
 - LinkedIn : https://www.linkedin.com/in/roland-langlois/
+
+#
+
+ . LinkedIn Page : https://www.linkedin.com/company/convergence-organization
+
+. LinkedIn Showcase Page : https://www.linkedin.com/showcase/convergence-human-and-technology
+
+. Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
+
+. Medium : https://medium.com/@fabien-conejero/convergence-quand-le-g%C3%A9nie-invente-les-%C3%A9vidences-de-demain-eee167379f22
