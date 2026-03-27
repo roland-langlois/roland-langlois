@@ -2,11 +2,11 @@
 
 Software Architect & Emerging Tech Specialist | M.Sc. in Cloud Architecture
 
-I architect complex, scalable systems with a strategic focus on performance and business value. My expertise spans traditional software engineering and emerging technologies generative AI, robotics, and nanotech—allowing me to design hybrid systems where intelligence meets infrastructure.
+I architect complex, scalable systems with a strategic focus on performance and business value. My expertise spans traditional software engineering and emerging technologies generative AI, robotics, and nanotech allowing me to design hybrid systems where intelligence meets infrastructure.
 
 Core Approach : 
 
-I combine deep technical governance with a forward-looking vision, building resilient, cost optimized architectures that integrate AI-driven components, edge intelligence, and advanced hardware ecosystems.
+I combine deep technical governance with a forward looking vision, building resilient, cost optimized architectures that integrate AI driven components, edge intelligence, and advanced hardware ecosystems.
 
 Core Skills :
 
@@ -14,7 +14,7 @@ Core Skills :
 
 - Cloud & Backend : Node.js, TypeScript, ES6+, SQL, Docker, AWS
 
-- Emerging Tech : Generative AI (LLM integration, RAG, AI agents), Robotics (software architecture for autonomous systems), Nanotechnology (conceptual modeling, cross-disciplinary system design)
+- Emerging Tech : Generative AI (LLM integration, RAG, AI agents), Robotics (software architecture for autonomous systems), Nanotechnology (conceptual modeling, cross disciplinary system design)
 
 Expertise Focus :
 
