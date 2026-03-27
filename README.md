@@ -18,7 +18,7 @@ Core Skills :
 
 Expertise Focus :
 
-I specialize in bridging cutting-edge research domains—generative AI, robotics, and nanotech—with production-grade, cloud-native architectures. My work includes designing intelligent systems that leverage AI for decision-making, orchestrating robot software stacks, and modeling complex nanotech-driven applications within scalable infrastructures.
+I specialize in bridging cutting-edge research domains generative AI, robotics, and nanotech—with production-grade, cloud-native architectures. My work includes designing intelligent systems that leverage AI for decision-making, orchestrating robot software stacks, and modeling complex nanotech-driven applications within scalable infrastructures.
 
 Leadership :
 
